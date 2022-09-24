@@ -9,6 +9,10 @@ https://ivanorsolic.github.io/post/hardwarehacking1/
 
 https://www.flashrom.org/Bus_Pirate
 
+https://www.pentestpartners.com/security-blog/faster-eeprom-firmware-reads-use-a-pi/
+
+https://konukoii.com/blog/2018/02/13/lifting-firmware-with-the-bus-pirate/
+
 Apparently app points to:
 boosted-app.com:9000
 
