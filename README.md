@@ -13,6 +13,8 @@ https://www.pentestpartners.com/security-blog/faster-eeprom-firmware-reads-use-a
 
 https://konukoii.com/blog/2018/02/13/lifting-firmware-with-the-bus-pirate/
 
+https://payatu.com/using-rasberrypi-as-poor-mans-hardware-hacking-tool/
+
 Apparently app points to:
 boosted-app.com:9000
 
