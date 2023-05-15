@@ -15,6 +15,9 @@ https://konukoii.com/blog/2018/02/13/lifting-firmware-with-the-bus-pirate/
 
 https://payatu.com/using-rasberrypi-as-poor-mans-hardware-hacking-tool/
 
+PIC Extraction Guide:
+https://www.rapid7.com/blog/post/2019/04/30/extracting-firmware-from-microcontrollers-onboard-flash-memory-part-3-microchip-pic-microcontrollers/
+
 Apparently app points to:
 boosted-app.com:9000
 
